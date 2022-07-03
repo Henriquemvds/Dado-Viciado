@@ -1,0 +1,14 @@
+hr{
+    visibility: hidden;
+}
+
+#divDados{
+    text-align: center;
+    border-radius: 10px;
+    background-color: green;
+}
+
+
+button{
+    cursor: pointer;
+}
